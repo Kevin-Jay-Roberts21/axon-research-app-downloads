@@ -14,6 +14,8 @@ In this page, a user has the option to run a Hodgkin-Huxley (HH), Single Cable (
 
 After all inputs are filled, a user must enter a simulation name and click "Run Simulation". While a simulation is running, a user also has the option to "Cancel Simulation". After the simulation is complete, the data from the simulation is saved in a new folder that is automatically created in \Documents\ called \Axon Simulations\. After a simulation has been saved, a user may view the saved simulation in the Plot Animation or Plot Time and Space Shots tabs. WARNING: Data is not automatically deleted, each user is responsible for deleting their own saved simulations via \Documents\Axon Simulations\, or through the app. 
 
+![Alt text](images/simulation_page.png)
+
 ### Plot Animation
 This page is designed to plot the animation of a saved simulations. A user must first "Select a saved Simulation" from the dropdown. Then select a variable to plot (could be Vm, Vmy, n, m or h). Then a user must choose to plot the Variable vs Time or Variable vs Space. The following 3 buttons are used to "Play", "Pause" or "Reset" the animation. The "Speed" slider controls the speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
 
