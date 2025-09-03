@@ -19,8 +19,14 @@ After all inputs are filled, a user must enter a simulation name and click "Run 
 ### Plot Animation
 This page is designed to plot the animation of a saved simulations. A user must first "Select a saved Simulation" from the dropdown. Then select a variable to plot (could be Vm, Vmy, n, m or h). Then a user must choose to plot the Variable vs Time or Variable vs Space. The following 3 buttons are used to "Play", "Pause" or "Reset" the animation. The "Speed" slider controls the speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
 
+![Alt text](images/plot_animation_page.png)
+
 ### Plot Time and Space Shots
 Similar to the Plot Animation page, the user must pick a saved simulation, a variable, and a Plot Type (Variable vs Time or Variable vs Space). The next input is the number of time (or space) shots, and the final input is the physical units of the time (or space shots). After all is selected, the graph will automatically plot the time (or space) shots. Finally, a user has the option to delete a simulation in this page as well.
 
+![Alt text](images/plot_time_and_space_shots_page.png)
+
 ### Additional Info
 There are 4 tabs in this page. The first 3 tabs describe the 3 models (HH, SC, and DC), their circuits diagrams, and their corresponding model equations and boundary/initial conditions. Finally, the Variable Descriptions tab provides a detailed explaination of each variable used in the equations, as well as other important equation relationships.
+
+![Alt text](images/additional_info_page.png)
