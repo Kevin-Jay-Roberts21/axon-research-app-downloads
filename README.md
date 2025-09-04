@@ -7,7 +7,7 @@ Apple Silicon: https://github.com/Kevin-Jay-Roberts21/axon-research-app-download
 Intel Macs: https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-x64.dmg
 
 ## Axon Simulator App Information
-The Axon Simulator App allows a user to experiment axon voltage behaviors based on various axonal properties via user inputs. The app consists of four main pages which are described below.
+The Axon Simulator App allows a user to experiment with axon voltage behaviors based on various axonal properties via user inputs. The app consists of four main pages which are described below.
 
 ### Run Simulation
 In this page, a user has the option to run a Hodgkin-Huxley (HH), Single Cable (SC) or Double Cable (DC) simulation. In each simulation tab, a user is prompted to enter Mesh and Axon Geometry Parameters, Material and "Per unit Length" Parameters and Other Parameters. If a user is unsure about which parameters to enter are reason or appropriate, then they may make use of the Default Buttons, which automatically fill in the inputs with reasonable values. In each simulation page there is a question mark button "?" which may help the user understand more about the inputs and their simulation.
