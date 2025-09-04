@@ -17,7 +17,7 @@ After all inputs are filled, a user must enter a simulation name and click "Run 
 ![Alt text](images/simulation_page.png)
 
 ### Plot Animation
-This page is designed to plot the animation of a saved simulations. A user must first "Select a saved Simulation" from the dropdown. Then select a variable to plot (could be Vm, Vmy, n, m or h). Then a user must choose to plot the Variable vs Time or Variable vs Space. The following 3 buttons are used to "Play", "Pause" or "Reset" the animation. The "Speed" slider controls the speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
+This page is designed to plot the animation of a saved simulation. A user must first "Select a saved Simulation" from the dropdown. Then select a variable to plot (could be Vm, Vmy, n, m or h). Then a user must choose to plot the Variable vs Time or Variable vs Space. The following 3 buttons are used to "Play", "Pause" or "Reset" the animation. The "Speed" slider controls the speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
 
 ![Alt text](images/plot_animation_page.png)
 
@@ -27,6 +27,6 @@ Similar to the Plot Animation page, the user must pick a saved simulation, a var
 ![Alt text](images/plot_time_and_space_shots_page.png)
 
 ### Additional Info
-There are 4 tabs in this page. The first 3 tabs describe the 3 models (HH, SC, and DC), their circuits diagrams, and their corresponding model equations and boundary/initial conditions. Finally, the Variable Descriptions tab provides a detailed explaination of each variable used in the equations, as well as other important equation relationships.
+There are 4 tabs on this page. The first 3 tabs describe the 3 models (HH, SC, and DC), their circuits diagrams, and their corresponding model equations and boundary/initial conditions. Finally, the Variable Descriptions tab provides a detailed explanation of each variable used in the equations, as well as other important equation relationships.
 
 ![Alt text](images/additional_info_page.png)
