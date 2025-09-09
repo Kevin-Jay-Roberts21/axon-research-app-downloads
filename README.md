@@ -1,15 +1,16 @@
 # axon-research-app-downloads
 
-Windows: https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-windows.msi
+**Windows:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-windows.msi
 
-Apple Silicon: https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-arm64.dmg
+**Apple Silicon:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-arm64.dmg
 
-Intel Macs: https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-x64.dmg
+**Intel Macs:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-x64.dmg
 
 ### Download Instructions
 Since this app is disctributed through GitHub (and not through an official app store), your computer may warn that the installer is from an "unidentified developer" or "potential unsafe source." This is expected, the app does not contain malware, it simply hasn't been code-signed with a commercial developer license.
 
 **On Windows:** You may see a SmartScreen warning. To continue, click "More Info" and then "Run anyway".
+
 **On MacOS:** You may see a message that the app "cannot be opened because it is from an inidentified developer." To proceed, right-click (or Control-click) the app, select "Open," and confirm.
 
 Once you bypass this initial check, the app will install and run normally.
