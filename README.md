@@ -16,7 +16,7 @@ Since this app is disctributed through GitHub (and not through an official app s
 Once you bypass this initial check, the app will install and run normally.
 
 ## Axon Simulator App Information
-The Axon Simulator App allows a user to experiment with axon voltage behaviors based on various axonal properties via user inputs. This app is based off of the research project Modeling and Analysis of Electric Signal in Neurons found [here]([URL](https://digitalcommons.usu.edu/gradreports2023/120/)). The app consists of four main pages which are described below.
+The Axon Simulator App allows a user to experiment with axon voltage behaviors based on various axonal properties via user inputs. This app is based off of the research project Modeling and Analysis of Electric Signal in Neurons found [here](https://digitalcommons.usu.edu/gradreports2023/120/). The app consists of four main pages which are described below.
 
 ### Run Simulation
 In this page, a user has the option to run a Hodgkin-Huxley (HH), Single Cable (SC) or Double Cable (DC) simulation. In each simulation tab, a user is prompted to enter Mesh and Axon Geometry Parameters, Material and "Per unit Length" Parameters and Other Parameters. If a user is unsure about which parameters to enter are reason or appropriate, then they may make use of the Default Buttons, which automatically fill in the inputs with reasonable values. In each simulation page there is a question mark button "?" which may help the user understand more about the inputs and their simulation.
