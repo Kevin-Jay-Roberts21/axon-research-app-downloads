@@ -1,6 +1,6 @@
 # axon-research-app-downloads
 
-**Windows:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-windows.msi
+**Windows:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-windows-x64.msi
 
 **Apple Silicon:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-arm64.dmg
 
