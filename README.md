@@ -7,7 +7,7 @@
 **Intel Macs:** https://github.com/Kevin-Jay-Roberts21/axon-research-app-downloads/releases/latest/download/axon-research-app-macos-x64.dmg
 
 ### Download Instructions
-Since this app is disctributed through GitHub (and not through an official app store), your computer may warn that the installer is from an "unidentified developer" or "potential unsafe source." This is expected, the app does not contain malware, it simply hasn't been code-signed with a commercial developer license.
+Since this app is distributed through GitHub (and not through an official app store), your computer may warn that the installer is from an "unidentified developer" or "potential unsafe source." This is expected, the app does not contain malware, it simply hasn't been code-signed with a commercial developer license.
 
 **On Windows:** You may see a SmartScreen warning. To continue, click "More Info" and then "Run anyway".
 
@@ -26,7 +26,7 @@ After all inputs are filled, a user must enter a simulation name and click "Run 
 ![Alt text](images/simulation_page.png)
 
 ### Plot Animation
-This page is designed to plot the animation of a saved simulation. A user must first select a saved simulation under "Simulations:", where multiple simulations may be selected at a time (Note: an HH simulation cannot be compared with a SC or a DC simulation, however SC and DC simulations may be compared). Then a user must select a variable to plot under "Select Variable:". Options include Vm, n, m or h (or Vmy if selection is of type SC or DC). Then a user must choose to plot under "Plot Type:" (Variable vs Time or Variable vs Space). Under "Animation Controls:", lie the 3 buttons "Play", "Pause" or "Reset" which are used to control the animation. The "Playback Speed:" slider controls the playback speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
+This page is designed to plot the animation of a saved simulation. A user must first select a saved simulation under "Simulations:", where multiple simulations may be selected at a time (Note: an HH simulation cannot be compared with a SC or a DC simulation, however SC and DC simulations may be compared). Then a user must select a variable to plot under "Select Variable:". Options include Vm, n, m or h (or Vmy if selection is type SC or DC). Then a user must choose to plot under "Plot Type:" (Variable vs Time or Variable vs Space). Under "Animation Controls:", lie the 3 buttons "Play", "Pause" or "Reset" which are used to control the animation. The "Playback Speed:" slider controls the playback speed of the animation. Finally, a user may decide to delete a saved simulation by clicking on "Delete Saved Simulation". After deleting a saved simulation, it will no longer appear in the Simulation dropdown, and it is deleted from the \Documents\Axon Simulations\ folder. 
 
 To the right of the inputs is the graph which displays the voltage from a saved simulation. Below the graph a user may select a saved simulation to 1) see what their inputs were for their simulation (under "View Simulation Inputs:") and 2) see what the calculated conduction velocity, action potential duration and peak voltage of action potential is of a saved simulation (under "Compute Axon Features:").
 
